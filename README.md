@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Kyle 👾
+
+![2tonepantone's GitHub stats](https://github-readme-stats.vercel.app/api?username=2tonepantone&count_private=true&show_icons=true)
 
 <!--
 **2tonepantone/2tonepantone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
