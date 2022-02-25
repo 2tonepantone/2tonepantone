@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Kyle 👾</h1>
 <h3 align="left">A Full-Stack Developer living in Tokyo</h3>
 
-- 🔭 I’m currently working on [HabiCal](https://github.com/2tonepantone/habical)
-- 🌱 I’m currently playing with **TypeScript**, **Redux**, and **React Router**.
+- 🔭 I’m currently working on [HabiCal](https://github.com/2tonepantone/habical) and [MSYNC](https://github.com/2tonepantone/msyc)
+- 🌱 I’m currently playing with **TypeScript**, **Redux**, and **React Router**
 - 👨‍💻 Check out my portfolio at [kylealexbailey.com](https://www.kylealexbailey.com/)
 
 <h3 align="left">Connect with me:</h3>
